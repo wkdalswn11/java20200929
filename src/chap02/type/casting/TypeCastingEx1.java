@@ -42,5 +42,7 @@ public class TypeCastingEx1 {
 
 		// 강제 형변환 (실수 -> 정수)
 		intValue = (int) floatValue;
+		
+		
 	}
 }
