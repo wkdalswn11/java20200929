@@ -7,7 +7,7 @@ public class Exercise04 { //주사위 던져서 a, b 두개합이 5가아니면 
 	do {	
 		 a = (int)(Math.random()*6) + 1;
 		 b = (int)(Math.random()*6) + 1;
-		 System.out.println("(" + a + "," + b + ")");
+		 System.out.println("(" + a + ", " + b + ")");
 	 } while (!(a+b==5));
 	
 	
