@@ -5,7 +5,7 @@ public class Printer {
 
 	// 메소드
 
-	double println(double a) {
+	 double println(double a) {
 		System.out.println(a);
 		return a;
 	}
