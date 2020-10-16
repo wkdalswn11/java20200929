@@ -28,9 +28,6 @@ public class Account {
 	}
 
 	public int getBalance() {
-		if (this.balance > 0) {
-		return balance;
-		}
 		return balance;
 	}
 
